@@ -27,4 +27,4 @@ The data set used in this analysis is available [here](https://github.com/RamiKr
 You also need a Jupyter Notebook with the Kernel set to R.
 
 ## Running the Application
-In order to run the project, you can follow the detailed steps provided on "notebook.ipynb" along with the datasets available in the project directory. You can work with the new updated data in order to gain more accurate insight to the analysis.
+In order to run the project, you can follow the detailed steps provided on "covid_notebook.ipynb" along with the datasets available in the project directory. You can work with the new updated data in order to gain more accurate insight to the analysis.
