@@ -6,20 +6,20 @@ This project is also featured on the Medium website [HERE](https://medium.com/@x
 # Table Of Contents
 
 ##### Table of Contents  
-[Data](#headers)  
+[Data](#data)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="headers"/>
+<a name="data"/>
 
-[Data](#headers)  
+[PreRequisites](#prerequisites)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="headers"/>
+<a name="prerequisites"/>
 
-[Data](#headers)  
+[Running The Application](#running-the-application)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="headers"/>
+<a name="running-the-application"/>
 ## Data
 ## PreRequisites
 ## Running the Application
